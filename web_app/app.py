@@ -102,7 +102,7 @@ with st.sidebar:
     st.markdown("---")
     st.markdown(
         '<p style="text-align:center; color:#556677; font-size:0.8em;">'
-        "v1.0.0 • Streamlit • 2024</p>",
+        "v1.0.0 • Streamlit • 2026</p>",
         unsafe_allow_html=True,
     )
 
